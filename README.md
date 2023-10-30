@@ -1,2 +1,5 @@
 # Portfólio-2023-1-DS
-Repositório utilizado como Portfólio das atividades propostas pela IBM
+Repositório utilizado como Portfólio das atividades realizadas no curso de Desenvolvimento de Sistemas M-TEC.
+
+- LINK DO REPOSITÓRIO DO PROJETO ESCOLA DE FUTEBOL:
+- LINK DO  GITPAGE DO PROJETO ESCOLA DE FUTEBOL:
